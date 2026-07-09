@@ -63,8 +63,6 @@ Short description — ye project kya karta hai, kis problem ko solve karta hai.
 Short description — ye project kya karta hai, kis problem ko solve karta hai.
 `Python` `Automation`
 
-> *(In sabko apne real projects, links aur descriptions se replace kar dena)*
-
 ---
 
 ### 📊 GitHub Stats
@@ -74,7 +72,7 @@ Short description — ye project kya karta hai, kis problem ko solve karta hai.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityarawat&theme=default" alt="Aditya's GitHub Streak" height="165"/>
 </p>
 
-> *(`adityarawat` ko apne exact GitHub username se replace karna — yahi stat cards automatically aapka data show karenge)*
+
 
 ---
 
